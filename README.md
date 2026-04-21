@@ -1,4 +1,6 @@
-# Chhatarapati Chandril
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=2000&color=38BDF8&center=true&vCenter=true&width=600&lines=Chhatarapati+Chandril&repeat=0)](https://git.io/typing-svg)
 
 Backend Engineer in progress. CSE'28 @ IIIT Sonepat.
 
@@ -11,7 +13,6 @@ Building systems that scale — not just apps that work.
 | Project | Stack | Status |
 |---|---|---|
 | Rate Limiter API | Node.js, Express, Redis | In Progress |
-| URL Shortener v2 | Node.js, Express, MongoDB | Deployed |
 | Job Queue System | BullMQ, Redis, Node.js | Upcoming |
 
 ---
@@ -41,3 +42,5 @@ Frontend    →  React, HTML, CSS
 ---
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chhatarapati-chandril&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
