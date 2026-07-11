@@ -10,10 +10,9 @@ Building systems that scale — not just apps that work.
 
 ### Currently Building
 
-| Project | Stack | Status |
-|---|---|---|
-| Rate Limiter API | Node.js, Express, Redis | In Progress |
-| Job Queue System | BullMQ, Redis, Node.js | Upcoming |
+| Project | Stack |
+|---|---|
+| Rate Limiter API | Node.js, Express, Redis | 
 
 ---
 
