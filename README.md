@@ -8,21 +8,13 @@ Building systems that scale — not just apps that work.
 
 ---
 
-### Currently Building
-
-| Project | Stack |
-|---|---|
-| Rate Limiter API | Node.js, Express, Redis | 
-
----
-
 ### Stack
 
 ```
-Languages   →  Java, JavaScript
+Languages   →  JavaScript, TypeScript
+Frontend    →  React, HTML, CSS
 Backend     →  Node.js, Express
 Databases   →  MongoDB, MySQL, Redis
-Frontend    →  React, HTML, CSS
 ```
 
 ---
