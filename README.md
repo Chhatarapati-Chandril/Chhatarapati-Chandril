@@ -21,7 +21,7 @@ Databases   →  MongoDB, MySQL, Redis
 
 ### DSA
 
-- **LeetCode** — 200+ problems (Java) 
+- **LeetCode** — 300+ problems (Java) 
 - **CodeChef** — ~1400 rating
 
 ---
