@@ -33,8 +33,6 @@
 
 ---
 
----
-
 ### Connect
 
 [LinkedIn](https://linkedin.com/in/chandril) · [LeetCode](https://leetcode.com/u/chhatarapati-chandril) · [Email](mailto:chandril6a@gmail.com)
