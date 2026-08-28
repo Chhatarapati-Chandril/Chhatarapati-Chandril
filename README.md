@@ -28,7 +28,7 @@
 
 | **Platform** | **Progress** |
 |:---|:---|
-| **LeetCode** | 400+ problems solved |
+| **LeetCode + GFG** | 400+ problems solved |
 | **CodeChef** | ~1400 rating |
 
 ---
